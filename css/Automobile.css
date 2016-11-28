@@ -1,0 +1,47 @@
+body {
+	background-image: url("../img/happy.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+section {
+	text-align: center;
+	margin-top: 80px;
+}
+
+img {
+	width: 200px;
+	height:120px;
+	margin-bottom: 40px;
+	border-radius: 50%;
+}
+h1 {
+	font-family: Georgia;
+	color: blue;
+	font-size: 200%;
+}
+input {
+	width: 400px;
+	height: 30px;
+	text-align: center;
+}
+button {
+	width: 405px;
+	height: 35px;
+	background-color: blue;
+	color: white;
+}
+.text1 {
+	width: 400px;
+	text-align: center;
+	margin-left: 480px;
+	background-color: blue;
+	}
+a {
+	
+	color: orange;
+}
+h3, p {
+	color:white;
+}
